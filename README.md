@@ -33,7 +33,7 @@ A paper list for aspect based sentiment analysis.
 - **[NAACL-19]**: Target-oriented Opinion Words Extraction with Target-fused Neural Sequence Labeling. [[paper]](https://www.aclweb.org/anthology/N19-1259) [[data]](https://github.com/NJUNLP/TOWE)
 
 ## FABSA
-- **[Neurocomputing 2023]** An aspect-based sentiment analysis dataset of Customer Feedback reviews)** [[paper]](https://doi.org/10.1016/j.neucom.2023.126867) [[data]](https://huggingface.co/datasets/jordiclive/FABSA)
+- **[Neurocomputing 2023]** An aspect-based sentiment analysis dataset of Customer Feedback reviews. [[paper]](https://doi.org/10.1016/j.neucom.2023.126867) [[data]](https://huggingface.co/datasets/jordiclive/FABSA)
 
 ## Paper List
 
